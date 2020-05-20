@@ -1,0 +1,14 @@
+function float media(int a; int b;){
+  
+    a = 5+2;
+    b = 4;
+
+float ast;
+    int c;
+    int d;
+    c = 2;
+    d = 3;
+}
+fun int main(){
+    media(ast, b );
+}
